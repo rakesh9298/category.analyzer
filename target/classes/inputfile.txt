@@ -1,0 +1,15 @@
+PERSON Bob Jones
+PLACE Washington
+PERSON Mary
+COMPUTER Mac
+PERSON Bob Jones
+PERSON Bob  Janes
+XXX dsds
+OTHER 
+ 
+ DDDD DDD 
+OTHER Tree
+ANIMAL Dog
+PLACE Texas
+FOOD Steak
+ANIMAL Cat
